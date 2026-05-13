@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4643275522142600607
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7150689207683471942}
+  - component: {fileID: 780031509448675782}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7150689207683471942
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4643275522142600607}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -35.83881, y: 0.03128, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &780031509448675782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4643275522142600607}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e6e51e7088ae7846b3ac2f8aa50339b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AudioManager
+  musicSource: {fileID: 0}
+  sfxSource: {fileID: 0}
+  masterVolume: 0.1
+  musicVolume: 0.1
+  sfxVolume: 0.85
+  musicFadeDuration: 0.45
+  musicMenu: {fileID: 8300000, guid: eb997c61511598c40aa7725864c8a117, type: 3}
+  musicFase1: {fileID: 8300000, guid: 6a6a33e1ccc6a084d815e4351025b222, type: 3}
+  musicFase2: {fileID: 8300000, guid: 1abd57cc23cbff640b398719654e2a6d, type: 3}
+  musicFase3: {fileID: 8300000, guid: e1a815712d67338478cbf547400229ce, type: 3}
+  musicFinal: {fileID: 8300000, guid: 303811c81a19d04488695d231ff9194f, type: 3}
+  uiClick: {fileID: 8300000, guid: f6611cd9c8cb2b645a984520e218f3e8, type: 3}
+  uiPause: {fileID: 8300000, guid: 6b3f26014e760f8419d80e6c73a30397, type: 3}
+  attackLight: {fileID: 8300000, guid: ae01a8ff9cebefd438a75abde7db3507, type: 3}
+  attackHeavy: {fileID: 8300000, guid: 24e712517e4220d41809d69824e78f7b, type: 3}
+  hitEnemy: {fileID: 8300000, guid: 2cc7bdf8af2efa54ba67ec229c51f149, type: 3}
+  hitPlayer: {fileID: 8300000, guid: d7ea78d0961f67844a05c2dc961de59b, type: 3}
+  enemyDeath: {fileID: 8300000, guid: a829ddc06d56524498a9d2340fc299cd, type: 3}
+  skill1Impact: {fileID: 8300000, guid: 3bec919422973ae4396bac93aa7589fc, type: 3}
+  skill2Dash: {fileID: 8300000, guid: 06c52728f5d04244f8eda244c9e4e1b9, type: 3}
+  skill3Aura: {fileID: 8300000, guid: 68aaf44e3485ccd4699d2789a1686422, type: 3}
+  ultimate: {fileID: 8300000, guid: 5eabb877ba03f794c8afa0292847354b, type: 3}
+  pickupGeneric: {fileID: 0}
+  pickupHeal: {fileID: 8300000, guid: 70d8ae68339d17f47a6aff61ce9e9985, type: 3}
+  pickupAttack: {fileID: 8300000, guid: dc3731baa3fada847983ce683b5e1331, type: 3}
+  pickupDefense: {fileID: 8300000, guid: 71142f82924e35e48a65330ed5db256a, type: 3}
+  levelUp: {fileID: 8300000, guid: 698c963094819d642901f5811d6f940b, type: 3}
+  victory: {fileID: 8300000, guid: 6fba27950e219ff4da0f3632b8278bd9, type: 3}
+  defeat: {fileID: 8300000, guid: e47203bc793a3c946acb119b0e1fc029, type: 3}

@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 65fc3fe6ba662c742be47aff2c58b0df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 394762084021229355
+    second: UI_Choose_Skill_0
+  - first:
+      213: -1224073853620810288
+    second: UI_Choose_Skill_1
+  - first:
+      213: 3161570111443640431
+    second: UI_Choose_Skill_2
+  - first:
+      213: -8010950672636777313
+    second: UI_Choose_Skill_3
+  - first:
+      213: -8883568430117883475
+    second: UI_Choose_Skill_4
+  - first:
+      213: 2449537894759689187
+    second: UI_Choose_Skill_5
+  - first:
+      213: 5691135076970077056
+    second: UI_Choose_Skill_6
+  - first:
+      213: 8035989612087566619
+    second: UI_Choose_Skill_7
+  - first:
+      213: 1018875100324437163
+    second: UI_Choose_Skill_8
+  - first:
+      213: 7508129555787667731
+    second: UI_Choose_Skill_9
+  - first:
+      213: -2259578383902264668
+    second: UI_Choose_Skill_10
+  - first:
+      213: 844905258955695152
+    second: UI_Choose_Skill_11
+  - first:
+      213: 1466576146737243498
+    second: UI_Choose_Skill_12
+  - first:
+      213: 2799052663475269680
+    second: UI_Choose_Skill_13
+  - first:
+      213: 5082558851440959564
+    second: UI_Choose_Skill_14
+  - first:
+      213: -346206917308913267
+    second: UI_Choose_Skill_15
+  - first:
+      213: -4285615119394696157
+    second: UI_Choose_Skill_16
+  - first:
+      213: 1942223697400037203
+    second: UI_Choose_Skill_17
+  - first:
+      213: -4386364965924354633
+    second: UI_Choose_Skill_18
+  - first:
+      213: -1886576972670342375
+    second: UI_Choose_Skill_19
+  - first:
+      213: -2455314426863387354
+    second: UI_Choose_Skill_20
+  - first:
+      213: 6016235742850124940
+    second: UI_Choose_Skill_21
+  - first:
+      213: -1198818592428796145
+    second: UI_Choose_Skill_22
+  - first:
+      213: 5183777869446644654
+    second: UI_Choose_Skill_23
+  - first:
+      213: 3215475962473544388
+    second: UI_Choose_Skill_24
+  - first:
+      213: -7973731334860440757
+    second: UI_Choose_Skill_25
+  - first:
+      213: -1839019542142675738
+    second: UI_Choose_Skill_26
+  - first:
+      213: -124747413199370202
+    second: UI_Choose_Skill_27
+  - first:
+      213: 176263983675768983
+    second: UI_Choose_Skill_28
+  - first:
+      213: -672985299045895668
+    second: UI_Choose_Skill_29
+  - first:
+      213: 8353596935337260911
+    second: UI_Choose_Skill_30
+  - first:
+      213: -2116271116483226609
+    second: UI_Choose_Skill_31
+  - first:
+      213: -2258752154114896990
+    second: UI_Choose_Skill_32
+  - first:
+      213: -3230741407893448161
+    second: UI_Choose_Skill_33
+  - first:
+      213: -5670002680853894464
+    second: UI_Choose_Skill_34
+  - first:
+      213: 2838581421506122149
+    second: UI_Choose_Skill_35
+  - first:
+      213: -1220920896789349240
+    second: UI_Choose_Skill_36
+  - first:
+      213: 279183273893222979
+    second: UI_Choose_Skill_37
+  - first:
+      213: 8671336180889416912
+    second: UI_Choose_Skill_38
+  - first:
+      213: 3974673460987272055
+    second: UI_Choose_Skill_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Choose_Skill_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1448
+        height: 1086
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27d0ec160a7a7500800000000000000
+      internalID: 394762084021229355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_1
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1075
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd8618c057330fe0800000000000000
+      internalID: -1224073853620810288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_2
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1077
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f602711044720eb20800000000000000
+      internalID: 3161570111443640431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_3
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1080
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cee4c9ec263d090800000000000000
+      internalID: -8010950672636777313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_4
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1080
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1f2f8749937b480800000000000000
+      internalID: -8883568430117883475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_5
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1077
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb6201bcb18ef120800000000000000
+      internalID: 2449537894759689187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_6
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1078
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b11971339fafe40800000000000000
+      internalID: 5691135076970077056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_7
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1078
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b116537c9f1958f60800000000000000
+      internalID: 8035989612087566619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_8
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1078
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac14596185c32e00800000000000000
+      internalID: 1018875100324437163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_9
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1072
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319d55c1d0c323860800000000000000
+      internalID: 7508129555787667731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1068
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2ba5d7e6d54a0e0800000000000000
+      internalID: -2259578383902264668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_11
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1071
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034e9e44bd4b9bb00800000000000000
+      internalID: 844905258955695152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_12
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1034
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65a5563c335a5410800000000000000
+      internalID: 1466576146737243498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 954
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030fd02419b38d620800000000000000
+      internalID: 2799052663475269680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_14
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 960
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40e72ac850e88640800000000000000
+      internalID: 5082558851440959564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 918
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89e40b94a6023bf0800000000000000
+      internalID: -346206917308913267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 674
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3249f6c41cf6684c0800000000000000
+      internalID: -4285615119394696157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_17
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 675
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fffd5992a24fa10800000000000000
+      internalID: 1942223697400037203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 598
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b54cdead408023c0800000000000000
+      internalID: -4386364965924354633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_19
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 592
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b6d862d3881d5e0800000000000000
+      internalID: -1886576972670342375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_20
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 490
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d7aee9988fcedd0800000000000000
+      internalID: -2455314426863387354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 323
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c07916886fd7350800000000000000
+      internalID: 6016235742850124940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_22
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 319
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07d52087d0fc5fe0800000000000000
+      internalID: -1198818592428796145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_23
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 198
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea306e6e18a70f740800000000000000
+      internalID: 5183777869446644654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_24
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 75
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cafa0ff95aaf9c20800000000000000
+      internalID: 3215475962473544388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_25
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 35
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bfd3bf89d975190800000000000000
+      internalID: -7973731334860440757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_26
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 13
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4959f487d7a76e0800000000000000
+      internalID: -1839019542142675738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_27
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6284a9d73eec44ef0800000000000000
+      internalID: -124747413199370202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_28
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 13
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79080b5c827327200800000000000000
+      internalID: 176263983675768983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_29
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c023f47af6319a6f0800000000000000
+      internalID: -672985299045895668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_30
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67b1974720fde370800000000000000
+      internalID: 8353596935337260911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_31
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04199dc1ae71a2e0800000000000000
+      internalID: -2116271116483226609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_32
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 0
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab455a12ec47a0e0800000000000000
+      internalID: -2258752154114896990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_33
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 6
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a9d558ec91a23d0800000000000000
+      internalID: -3230741407893448161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_34
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cae03c4a9a1051b0800000000000000
+      internalID: -5670002680853894464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a155ee63caa46720800000000000000
+      internalID: 2838581421506122149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_36
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cf400c9ea6e0fe0800000000000000
+      internalID: -1220920896789349240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_37
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 0
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ad2ab55bbdfd300800000000000000
+      internalID: 279183273893222979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_38
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 2
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4f7e55056c65870800000000000000
+      internalID: 8671336180889416912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Choose_Skill_39
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b915c3470e82730800000000000000
+      internalID: 3974673460987272055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_Choose_Skill_0: 394762084021229355
+      UI_Choose_Skill_1: -1224073853620810288
+      UI_Choose_Skill_10: -2259578383902264668
+      UI_Choose_Skill_11: 844905258955695152
+      UI_Choose_Skill_12: 1466576146737243498
+      UI_Choose_Skill_13: 2799052663475269680
+      UI_Choose_Skill_14: 5082558851440959564
+      UI_Choose_Skill_15: -346206917308913267
+      UI_Choose_Skill_16: -4285615119394696157
+      UI_Choose_Skill_17: 1942223697400037203
+      UI_Choose_Skill_18: -4386364965924354633
+      UI_Choose_Skill_19: -1886576972670342375
+      UI_Choose_Skill_2: 3161570111443640431
+      UI_Choose_Skill_20: -2455314426863387354
+      UI_Choose_Skill_21: 6016235742850124940
+      UI_Choose_Skill_22: -1198818592428796145
+      UI_Choose_Skill_23: 5183777869446644654
+      UI_Choose_Skill_24: 3215475962473544388
+      UI_Choose_Skill_25: -7973731334860440757
+      UI_Choose_Skill_26: -1839019542142675738
+      UI_Choose_Skill_27: -124747413199370202
+      UI_Choose_Skill_28: 176263983675768983
+      UI_Choose_Skill_29: -672985299045895668
+      UI_Choose_Skill_3: -8010950672636777313
+      UI_Choose_Skill_30: 8353596935337260911
+      UI_Choose_Skill_31: -2116271116483226609
+      UI_Choose_Skill_32: -2258752154114896990
+      UI_Choose_Skill_33: -3230741407893448161
+      UI_Choose_Skill_34: -5670002680853894464
+      UI_Choose_Skill_35: 2838581421506122149
+      UI_Choose_Skill_36: -1220920896789349240
+      UI_Choose_Skill_37: 279183273893222979
+      UI_Choose_Skill_38: 8671336180889416912
+      UI_Choose_Skill_39: 3974673460987272055
+      UI_Choose_Skill_4: -8883568430117883475
+      UI_Choose_Skill_5: 2449537894759689187
+      UI_Choose_Skill_6: 5691135076970077056
+      UI_Choose_Skill_7: 8035989612087566619
+      UI_Choose_Skill_8: 1018875100324437163
+      UI_Choose_Skill_9: 7508129555787667731
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
